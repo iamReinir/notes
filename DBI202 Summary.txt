@@ -1,0 +1,82 @@
+Database System
+
+1. Overview.
+2. History of Database systems.
+3. Relational model of data.
+4. Algebraic Query language
+5. Functional dependencies
+6. Normal forms
+7. High-level design 
+8. SQL
+
+1. Overview.
+	*History of databases
+	*Database management systems
+2. High-level design
+	*Relational model of data.
+	*Functional dependencies
+	*Normal forms
+	*Constraints
+	*ERD, UML, ODL
+	*Algebraic and Logical Query Language
+3. SQL
+	*Define the structure
+	*Queries
+	*Constrants and Triggers
+	*Views and Indexes
+	
+1.0 Overview	
+	Database
+		a collection of information that exists over a long period of time. Nowadays, the term database refers to the collection of data that is managed by a database management systems (DBMS). 
+	Database Management System (DBMS)
+		A software package/system to facilitate the creation and maintenance of a computerized database
+	Database System
+		The DBMS software together with the data itself. Sometimes, the applications are also included.
+	The DBMS is expect to:
+		*Allow users to create new databases and specify their schemas (the logical structure of data) with Data Definition Language.
+		*Allow users to query and modified the data (with query language / data manipulation language)
+		*Support the storage of very large amount of data over long period of time. Allowing efficient access to the data vie queries and modifications.
+		*Enable durability, the recovery of data in case of failures, errors or misuse,
+		*Control access to data from many users at once, disallowing unexpected interaction between users and without actions on data to be performed partially but not completely,
+		
+1.1 Overview - History of databases
+	The chronological order of the development of DBMS is as follows 
+		1. Flat Files (1960s-1990s) 
+		2. Hierarchical (1970s-1990s) 
+		3. Network (1970s- 1990s) 
+		4. Relational (1980s-present) 
+		5. Object-Oriented (1990s- present) 
+		6. Object-Relational (1990s-present) 
+		7. Web enabled (1990s-present)
+		
+1.2 Overview - Database Management Systems.
+	Components : .\DBMS_components.png
+	Information integration : 
+		joining the data in many related databases into a whole.
+		The databases can differ in DBMS, structure for information, different terms to mean the same thing or the same term to mean different things. Scrap them is almost always impossible due to legacy applications.
+		There are some approaches for this problem:
+			*Data warehouse : copy data from many legacy databases to one central database periodically.
+			*Use a meditator, or a "middleware", whose function is to support an integrated model of data, while translating between this model and the actual model used by various databases.
+	Outline of database-systems studies
+		1. Relational Database Modeling
+		2. Relational Database Programming
+		3. Semistructured Data Modeling and Programming
+		4. Database system Implementation
+		5. Modern Database System issues.
+	
+2.0
+2.1 High-level design - Relational model of data.
+2.2 High-level design - Functional dependencies.
+2.3 High-level design - Normal Forms.
+2.4 High-level design - Constraints.
+2.5 High-level design - ERD, UML, ODL
+2.6 High-level design - Algebraic and Logical Query Language
+3.1 SQL - Define the structure
+3.2 SQL - Queries
+3.3 SQL - Constraints and Triggers
+3.4 SQL - Views and Indexes
+
+	
+
+
+
