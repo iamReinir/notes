@@ -13,7 +13,7 @@
 * Artifact : Novelupdate main website.
 * Response : User's browser showing the list of all related webnovels.
 * Response Measure : Roundtrip time from user click "search" to when the browser show the list. 95% of the time under 10 seconds. 99.99% under 30 seconds.
-
+	
 ## Example Availability quality scenario
 * Source : User using standard web browser
 * Stimulus : User access the main webpage of the site
