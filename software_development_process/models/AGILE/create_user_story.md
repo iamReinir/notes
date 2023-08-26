@@ -1,3 +1,5 @@
+[Back to AGILE index](manifesto.md)
+
 # GENERATING USER STORIES
 Where do user stories come from
 ## User story writing Workshop

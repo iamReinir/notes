@@ -1,3 +1,5 @@
+[Back to AGILE index](manifesto.md)
+
 # Agile planning is 
 * Multi-level
 * Less upfront but frequent

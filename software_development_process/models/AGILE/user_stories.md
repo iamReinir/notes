@@ -1,3 +1,5 @@
+[Back to AGILE index](manifesto.md)
+
 # Main ideas :
 * Conversation : as a primary form of communication
 * Adaptive : discover user needs vs. collect user needs

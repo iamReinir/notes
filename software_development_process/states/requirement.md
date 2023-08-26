@@ -1,4 +1,5 @@
-# Main content
+[Back to index](../SDP_index.md)
+# Requirement in Software
 * Create high-level descriptions
 * Distinguish between "right" and "wrong" system
 * Capture the WHAT, not the HOW of the solution.
@@ -28,14 +29,14 @@ System specification:
 * DB2 will be use as the database
 
 # WRSPM reference model
-|---------------------------Environment-----------------------|
-								|-----------------------------system---------------------------|
-	World 		Requirements			Specifications					Program			Machine
-(assumptions)
-	e_hidden						e_visible		s_visible					s_hidden
-	
-example: an ATM
-e_hidden is the debit card/PIN
-e_visible is the data when reading the mag strip of the card/PIN when entered into the system
-s_visible is the User interface
-s_hidden is the thing that hidden from the user: the code, the machine, the lock...
+	|---------------------------Environment-----------------------|
+						|-----------------------------system---------------------------|
+	World 		Requirements			Specifications		Program			Machine
+	(assumptions)
+		e_hidden			e_visible	s_visible					s_hidden
+		
+### example: an ATM
+* e_hidden is the debit card/PIN
+* e_visible is the data when reading the mag strip of the card/PIN when entered into the system
+* s_visible is the User interface
+* s_hidden is the thing that hidden from the user: the code, the machine, the lock...

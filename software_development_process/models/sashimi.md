@@ -1,5 +1,9 @@
+[Back to index](../SDP_index.md)
+
+# Sashimi - a Waterfall variant
+
 # Desc
-Allow overlap of different phases.
+It's like [Waterfall](waterfall.md), but it allows overlap of different phases.
 (Design can be done before Requirement is done, for example)
 
 ## very Predictive, slightly adaptive

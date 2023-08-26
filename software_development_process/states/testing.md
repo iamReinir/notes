@@ -1,6 +1,7 @@
-
+[Back to index](../SDP_index.md)
+# Testing
 Test case = input + expected output
-# "Bug"
+## "Bug"
 * Failure : something happened in a way that its not supposed to
 * Error : a part of a system that liable to lead to a failure
 	* Latent error : error that havent active yet

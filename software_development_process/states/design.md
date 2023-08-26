@@ -1,4 +1,5 @@
-# main steps
+[Back to index](../SDP_index.md)
+# Design
 * Understanding the problem
 * Identifying one or more solution
 * Describe solution abstractions
@@ -24,7 +25,7 @@
 3. Ease of understanding.
 
 ## Coupling
-	Measure the strength of connections between systems' components.
+Measure the strength of connections between systems' components.
 1. Tight Coupling
 	* Content Coupling : A rely on the data member of B
 	* Common Coupling : A and B both rely on some global variable
@@ -38,15 +39,15 @@
 	* No coupling 
 	
 ## Cohesion
-	Measure how well a module's components fit together
+Measure how well a module's components fit together
 1. Weak
-	* Coincidental Cohesion : Proximity to other code
-	* Temporal Cohesion : Call at the same time
-	* Procedural Cohesion : One called after another
-	* Logical Association : Performed similar functions
+* Coincidental Cohesion : Proximity to other code
+* Temporal Cohesion : Call at the same time
+* Procedural Cohesion : One called after another
+* Logical Association : Performed similar functions
 2. Medium
-	* Communicational Cohesion : Same type of output/input
-	* Sequential Cohesion : One part is input of another part
+* Communicational Cohesion : Same type of output/input
+* Sequential Cohesion : One part is input of another part
 3. Strong
-	* Object Cohesion : Every operations belonged to this object.
-	* Functional Cohesion : Everything is used to perform one function/behaviour
+* Object Cohesion : Every operations belonged to this object.
+* Functional Cohesion : Everything is used to perform one function/behaviour

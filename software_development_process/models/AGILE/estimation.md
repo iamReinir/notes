@@ -1,3 +1,5 @@
+[Back to AGILE index](manifesto.md)
+
 # Agile planning
 * Effort (vs. Duration)
 * Accuracy (vs. Precision)

@@ -1,5 +1,0 @@
-Agile is good for projects of all size. However, it is not good for repetitive, repeatable work.
-
-Agile need close collaboration with businesses, users
-
-Team should be setup for change

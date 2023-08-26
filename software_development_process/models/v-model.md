@@ -1,10 +1,12 @@
+[Back to index](../SDP_index.md)
+# V-model - Validation and Verification
 # Desc
 Solving the testing problem of waterfall. Emphasis on validation earlier in the process.
 
-Concept							operation and maintenance
-	Requirement				Verification and Valication test
-		Design			Intergration test
-			Implementation
+	Concept							operation and maintenance
+		Requirement				Verification and Valication test
+			Design			Intergration test
+				Implementation
 			
 ## Very predictive process.
 
