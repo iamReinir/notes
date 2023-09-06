@@ -2,21 +2,24 @@
 
 ## Dealing with the university's courses
 
+- dotnet, skim through the slides
 - dotnet FPT course rundown, note.
-- Software project FPT course rundown, note.	
-- Software testing FPT course rundown, note.	
-- Software requirement FPT course rundown, note.	
+- Software project FPT course rundown, note. (This is summarized in the Student Guide)
+- Software testing FPT course rundown, note.
+- Software requirement FPT course rundown, note.
+- /09/08 SWT, Research + Slide
+- /09/08 SWR, Research + Slide
 
 ## Some extension on the courses
 
-- Microsoft C# course, finish	
+- Microsoft C# course, finish
 - Software Requirement Book, summary
 - Software Testing Book, summary
-	
+
 ## Building a me-maintained local wiki
 
 - Basic Syntax of C#, note
-- Object-Oriented Syntax of C#, note	
+- Object-Oriented Syntax of C#, note
 - Syntax of Java, renote
 - Syntax of SQL, renote
 - Syntax of HTML, renote
@@ -30,25 +33,25 @@
 2023/07/23 AM
 	IOT : 2 sources
 	MAS : 2 sources
-	UML User case diagram 1h	
+	UML User case diagram 1h
 
 2023/07/22 AM
 	Nộp project Toán
 	Course 4 week 2
-	IOT : 50 questions	
-	
+	IOT : 50 questions
 
-	
+
+
 Viết BattleShip, chạy trên TomCat
 	v Gửi HTTP từ HTML form sang servlet (test)
 	v gửi HTTP dựa trên thông tin mà servlet nhận được (test)
 	v Gửi HTTP bằng JS
-	v Trang vào lobby : 
+	v Trang vào lobby :
 		chọn username -> send to servlet
-		-> servlet check whether anyone had that username 
+		-> servlet check whether anyone had that username
 		-> send OK/Duplicated response -> page redirect to lobby
 	v Remove player when they close the website (maybe by using session)
-	x The lobby : 
+	x The lobby :
 		See the (continuously updating) list of current players
 		-> choose a player to challenge / -> see a challenge
 		-> enter game.
@@ -67,7 +70,7 @@ UML Use Case Diagram Online Library (thu)
 # Làm bài tập Toán trong slide, chương 6.
 # Làm bài tập Toán trong slide, chương 5.
 
-# Coursera course 4 
+# Coursera course 4
 # Project Toán : recheck + rehearsal
 
 
@@ -96,8 +99,8 @@ NOTDONE                       V
 
 
 
-{	
-	Course 4 Week 2	
+{
+	Course 4 Week 2
 	# Hoàn thành IOT
 		v LINK
 		v Presentation
@@ -112,7 +115,7 @@ NOTDONE                       V
 		V ppt câu 3
 	# console app, dùng JDBC
 	# Coursera course 4
-		# Enter course (26/06) 
+		# Enter course (26/06)
 	# Làm bt Nhật Ngữ pháp (30/06)
 	Project Toán
 		# Tập hợp team
@@ -138,10 +141,10 @@ NOTDONE                       V
 	Làm workshop HTML - CSS (26-5)
 	Gathering #2
 	# Tra từ bài 5 (26/5 - FRI)
-	# IOT Tinkercad 
+	# IOT Tinkercad
 	# IOT lắp mạch
 	# Phân công Hackathon
-	# IOT miniproject 
+	# IOT miniproject
 	# Dọn máy tính
 }
 
