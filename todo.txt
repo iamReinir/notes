@@ -1,0 +1,148 @@
+# 2023/06/09
+
+## Dealing with the university's courses
+
+- dotnet FPT course rundown, note.
+- Software project FPT course rundown, note.	
+- Software testing FPT course rundown, note.	
+- Software requirement FPT course rundown, note.	
+
+## Some extension on the courses
+
+- Microsoft C# course, finish	
+- Software Requirement Book, summary
+- Software Testing Book, summary
+	
+## Building a me-maintained local wiki
+
+- Basic Syntax of C#, note
+- Object-Oriented Syntax of C#, note	
+- Syntax of Java, renote
+- Syntax of SQL, renote
+- Syntax of HTML, renote
+- Syntax of JS, renote
+- Syntax of C++, renote
+- Syntax of C, renote
+
+
+
+
+2023/07/23 AM
+	IOT : 2 sources
+	MAS : 2 sources
+	UML User case diagram 1h	
+
+2023/07/22 AM
+	Nộp project Toán
+	Course 4 week 2
+	IOT : 50 questions	
+	
+
+	
+Viết BattleShip, chạy trên TomCat
+	v Gửi HTTP từ HTML form sang servlet (test)
+	v gửi HTTP dựa trên thông tin mà servlet nhận được (test)
+	v Gửi HTTP bằng JS
+	v Trang vào lobby : 
+		chọn username -> send to servlet
+		-> servlet check whether anyone had that username 
+		-> send OK/Duplicated response -> page redirect to lobby
+	v Remove player when they close the website (maybe by using session)
+	x The lobby : 
+		See the (continuously updating) list of current players
+		-> choose a player to challenge / -> see a challenge
+		-> enter game.
+	x The main game :
+		Synchron the game for both player (maybe chat)
+
+UML Use Case Diagram Online Library (thu)
+
+
+
+# Làm bài tập Toán trong slide, chương 11.
+# Làm bài tập Toán trong slide, chương 10.
+# Làm bài tập Toán trong slide, chương 9.
+# Làm bài tập Toán trong slide, chương 8.
+# Làm bài tập Toán trong slide, chương 7.
+# Làm bài tập Toán trong slide, chương 6.
+# Làm bài tập Toán trong slide, chương 5.
+
+# Coursera course 4 
+# Project Toán : recheck + rehearsal
+
+
+
+
+The thing cant be planned rn
+{
+	Học Java Spring
+		# Lên kế hoạch học Java String
+	Hako clone, chạy trên TomCat
+	Java Web
+	Học Maven (Cần check cái này)
+	# Vim tutorial https://www.tutorialspoint.com/vim/index.htm
+}
+
+
+			    DONE
+   Λ                          _
+  / \        _   _           | |
+ / Λ \     _| |_| |_         | |
+/_/ \_\   |_   _   _|       _| |_
+  | |      _| |_| |_       \ \ / /
+  | |     |_   _   _|       \ V /
+  |_|       |_| |_|          \ /
+NOTDONE                       V
+
+
+
+{	
+	Course 4 Week 2	
+	# Hoàn thành IOT
+		v LINK
+		v Presentation
+		v Mini Project
+		v All homework
+	Login + CRUD book workshop (sat)
+	# Autobackup
+	Project Toán
+		V Chọn Data (28/06)
+		V Chia việc
+		V Excel câu 3
+		V ppt câu 3
+	# console app, dùng JDBC
+	# Coursera course 4
+		# Enter course (26/06) 
+	# Làm bt Nhật Ngữ pháp (30/06)
+	Project Toán
+		# Tập hợp team
+	# IOT Presentation
+	# Java CommandLine
+        # Lau nhà (26/06)
+        # Làm bt tiếng Nhật SGK (25/06)
+	# Coursera course 3 (25/06)
+	Học Maven
+		# Lên kế hoạch học Maven (25/06)
+		Tutorial : https://www.tutorialspoint.com/maven/index.htm
+		~ 21 pages. Length of each page most probably uneven.
+}
+
+
+{
+	#làm email mới
+		nguyenxuantrung1123@gmail.com
+	# Coursera course 2
+	# Coursera course 1
+	# Bài tập toán (26/5 - FRI)
+	# Làm slide workshop HTML - CSS  (26/5 - FRI)
+	Làm workshop HTML - CSS (26-5)
+	Gathering #2
+	# Tra từ bài 5 (26/5 - FRI)
+	# IOT Tinkercad 
+	# IOT lắp mạch
+	# Phân công Hackathon
+	# IOT miniproject 
+	# Dọn máy tính
+}
+
+DDD, CQRS, EDD
