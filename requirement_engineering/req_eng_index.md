@@ -3,7 +3,7 @@
 ## Software Requirement: What, Why and Who
 
 - [Software requirement - the essentials](requirement_define.md)
-- [Requirements from the customer's perspective](#)
+- [Requirements from the customer's perspective](customer_engage.md)
 - [Good practices for requirement engineering](#)
 - [The bussiness analyst](#)
 
