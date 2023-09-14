@@ -2,10 +2,10 @@
 
 ## Software Requirement: What, Why and Who
 
-- [Software requirement - the essentials](requirement_define.md)
-- [Requirements from the customer's perspective](customer_engage.md)
-- [Good practices for requirement engineering](#)
-- [The bussiness analyst](#)
+- [Software requirement - the essentials](requirement_define/requirement_define.md)
+- [Requirements from the customer's perspective](requirement_define/customer_engage.md)
+- [Good practices for requirement engineering](requirement_define/good_practice.md)
+- [The bussiness analyst](requirement_define/business_analysist.md)
 
 ## Requirement development
 

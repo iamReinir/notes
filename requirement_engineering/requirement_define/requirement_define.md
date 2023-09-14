@@ -1,4 +1,4 @@
-[Back to index](req_eng_index.md)
+[Back to index](../req_eng_index.md)
 
 # What really is requirement?
 
@@ -12,12 +12,12 @@ Ian Sommerville and Pete Sawyer (1997) :
 
 The term "requirement" is very overloaded, so we will need to unload it.
 
-![Unload "requirement"](terms_and_definitions.png)
+![Unload "requirement"](imgs/terms_and_definitions.png)
 
 > "Essentially, all models are wrong, but some are useful."
 > (Box and Draper 1987)
 
-![A useful model](one_model.png)
+![A useful model](imgs/one_model.png)
 
 - Business requirements describe why the organization is implementing the system—the business benefits the organization hopes to achieve.
 
@@ -35,11 +35,11 @@ The term "requirement" is very overloaded, so we will need to unload it.
 
 The business analyst (BA) documents functional requirements in a software requirements specification (SRS), which describes as fully as necessary the expected behavior of the software system.
 
-![Feature vs Function](features_vs_functions.png)
+![Feature vs Function](imgs/features_vs_functions.png)
 
 # Requirement development and management
 
-![Subdivision](req_dev_and_manage.png)
+![Subdivision](imgs/req_dev_and_manage.png)
 
 # Requirement development
 
