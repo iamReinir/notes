@@ -10,7 +10,7 @@
 ## Requirement development
 
 - [Establish the business requirements](#)
-- [Finding the voice of the user](#)
+- [Finding the voice of the user](requirement_development/the_voice_of_user.md)
 - [Requirements elicitation](#)
 - [Understand user requirements](#)
 - [Playing by the rule](#)
