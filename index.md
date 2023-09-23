@@ -4,3 +4,4 @@
 - [Markdown syntax](syntax/markdown_syntax.txt)
 - [Design Patterns](design_patterns/index.md)
 - [Software requirement](requirement_engineering/req_eng_index.md)
+- [Ethics in IT](ethics_in_IT/ethics_index.md)
