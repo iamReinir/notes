@@ -146,3 +146,19 @@ Collect the data, unless the user say not to.
 No data is collect, unless user say data can be collected.
 
 # Privacy Protection through Individual Authorization
+
+## Questions
+
+- "Ethics by design"
+- "Explainability"
+- personhood
+  > Personhood determines the rights, protections, privileges, responsibilities, liability, and duty of persons under the law of a society.
+- strategic differentiator
+- Beneficence
+- non - maleficence
+- electronic personalities
+- engineering activism
+
+# Autonomy
+
+The ability for moral agents to make decisions without being coerce.

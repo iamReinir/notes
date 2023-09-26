@@ -10,7 +10,7 @@ To find the voice of user, take the following steps:
 - Select and work with individuals who represent each user class and other stakeholder groups.
 - Agree on who are the requirements decision makers are for you project.
 
-You must me careful that, the features users presenting as what they "want" is not necessary the features that they need. User's voice should not be the major input.
+You must me careful that, the features users presenting as what they "want" is not necessary the features that they need. User's voice should not be the only major input.
 
 ## User classes
 

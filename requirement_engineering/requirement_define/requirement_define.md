@@ -88,7 +88,7 @@ Requirements management activities include the following:
 - Tracing individual requirements to their corresponding designs, source code, and tests
 - Tracking requirements status and change activity throughout the project
 
-![boundary](boundary.png)
+![boundary](imgs/boundary.png)
 
 # No project without requirement
 
