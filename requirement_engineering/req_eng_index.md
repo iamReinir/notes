@@ -16,7 +16,8 @@
 - [Requirements elicitation](#)
 - [Understand user requirements](requirement_development/understand_user_req.md)
 - [Playing by the rule](#)
-- [Documenting the requirements](./requirement_development/requirement_in_agile.md)
+- [Software Requirement Specification](./requirement_development/srs.md)
+- [Requirements specification in agile](./requirement_development/requirement_in_agile.md)
 - [Writing excellent requirements](#)
 - []
 -
