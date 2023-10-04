@@ -17,6 +17,7 @@
 - [Understand user requirements](requirement_development/understand_user_req.md)
 - [Playing by the rule](#)
 - [Software Requirement Specification](./requirement_development/srs.md)
+- [Some notes about the SRS](./requirement_development/srs_notes.md)
 - [Requirements specification in agile](./requirement_development/requirement_in_agile.md)
 - [Writing excellent requirements](#)
 - []
