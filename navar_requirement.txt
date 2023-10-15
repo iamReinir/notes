@@ -1,0 +1,12 @@
+# Navar 
+
+một chương trình giúp tiết kiệm thời gian quản lý tệp index.md của một thư mục chuyên dùng để chứa các tệp .md
+
+Khi chạy trong một thư mục, navar sẽ 
+- Tạo ra một tệp index.md bao gồm tất cả link tới các tệp .md trong thư mục gốc. Anchor của link sẽ là cái header lớn nhất của tệp, hoặc là tên tệp nếu như tệp không có header.
+- Nếu trong thư mục gốc có các thư mục con, navar sẽ tạo ra một tệp index.md của thư mục con đó và link nó tới thư mục ban đầu. Navar sẽ tiếp tục chạy đệ qui trên thư mục con đó. Anchor của link sẽ là tên của thư mục.
+- Navar sẽ bỏ qua thư mục có tên là **img**, **imgs**, **images** hay **resources**, *rs*, **resource**, hoặc bất cứ thư mục nào có mở đầu là nig_ (navar ignore)
+- Navar sẽ thêm một link tới index.md của thư mục hiện tại vào dòng đầu tiên của tất cả tệp.md, nếu chúng chưa có dòng dó.
+- Navar sẽ thêm một link tới index.md của thư mục cha vào index.md, nếu như thư mục hiện tại là một thư mục con. 
+
+

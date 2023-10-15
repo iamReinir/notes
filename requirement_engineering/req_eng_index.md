@@ -21,7 +21,8 @@
 - [Requirements specification in agile](./requirement_development/requirement_in_agile.md)
 - [Writing excellent requirements](#)
 - [Modeling the requirements](./requirement_development/requirement_modeling.md)
--
+- [Phototyping](./requirement_development/Riskreduction_prototyping.md)
+- [Prioritize requirements](./requirement_development/requirement_prioritize.md)
 
 ## [Requirement for specific project classes](#)
 
