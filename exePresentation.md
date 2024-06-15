@@ -50,7 +50,7 @@ The last strategy which is a must to follow is to always be confident on whateve
 
 If you are confident about your brand no matter at what stage it is, then no competitor can be a source of threat for you, because you are doing your best and remaining calm.
 
-II. Some more ideas => important but too general to be really helpful 
+## Some more ideas => important but too general to be really helpful 
 
 1. Optimize Your Product and Service
 1. Effective Marketing Strategy
