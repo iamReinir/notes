@@ -82,4 +82,16 @@ Test how modules interact with each other
 
 Test the whole system
 
-###
+### Acceptance test
+
+## Defect management
+
+A systematic process to identifying and fix bugs
+
+1. Discovery
+2. Categorization
+3. Resolution
+4. Verification
+5. Closure
+6. Reporting
+   (then repeat)
