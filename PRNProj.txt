@@ -1,0 +1,41 @@
+/login -POST
+	{
+		"username":"reinir"
+		"password":"password"
+	}
+	
+/logout -POST
+	
+/register
+	{
+		"username":"reinir"		
+		"password":"password"	
+	}
+	
+/mpeg/{song_id}.mp3
+
+=> it send the song file 
+
+/song?name=...&genre=...
+	-GET -> get the songs. Search if applicable
+
+	[
+		{
+			"id":
+			"name":
+			"genre":
+			"description":
+		}
+	]
+
+/song
+	-POST -> post the song...? => multipart/form-data
+	
+	
+
+/song/{song_id} 
+	=> detail of the song + realtime comment section
+	
+	youtubeapikey : AIzaSyCd8NHz1byXfa2c58XVYXpY9ZJzqokgAyw
+	
+curl "https://www.googleapis.com/youtube/v3/search?key=AIzaSyCd8NHz1byXfa2c58XVYXpY9ZJzqokgAyw&part=snippet&maxResults=25&q=relayouter"
