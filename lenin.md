@@ -1,3 +1,9 @@
+---
+marp: true
+theme: default
+paginate: true
+---
+
 # Giai Đoạn V.I. Lênin Trong Sự Phát Triển Triết Học Mác
 
 ---
