@@ -1,10 +1,11 @@
----
-marp: true
-theme: default
-paginate: true
----
-
 # Giai Đoạn V.I. Lênin Trong Sự Phát Triển Triết Học Mác
+1. Giai Đoạn V.I. Lênin Trong Sự Phát Triển Triết Học Mác
+2. Hoàn cảnh lịch sử V.I.Lênin phát triển triết học Mác
+3. V.I.Lênin trở thành người kế tục trung thành và phát triển sáng tạo chủ nghĩa Mác và triết học Mác trong thời đại mới - thời đại đế quốc chủ nghĩa và quá độ lên chủ nghĩa xã hội.
+3.1. Thời kỳ 1893-1907, V.I.Lênin bảo vệ và phát triển triết học Mác nhằm thành lập đảng Mácxít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất.
+3.2. Thời kỳ 1907-1917 là thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga, chuẩn bị cho cách mạng xã hội chủ nghĩa.
+3.3. Thời kỳ 1917-1924 là thời kỳ V.I.Lênin tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội.
+4. Thời kỳ 1924-nay, triết học Mác-Lênin tiếp tục được các đảng cộng sản và công nhân bổ sung, phát triển
 
 ---
 
