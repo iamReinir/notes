@@ -12,6 +12,7 @@ Viết từng chương từ đầu đến cuối đối với tôi có vẻ khô
 Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
 => bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
 
+Test obsidian 
 
 ## Technical stuffs
 
@@ -21,4 +22,3 @@ Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào
 - [Software requirement](requirement_engineering/req_eng_index.md)
 - [Ethics in IT](ethics_in_IT/ethics_index.md)
 - [Testing](testing/test_index.md)
-
