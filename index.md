@@ -1,4 +1,19 @@
+
+
 # Reinir's notes
+
+1. Về việc viết : 
+
+Viết từng chương từ đầu đến cuối đối với tôi có vẻ không bền => n~ lần trc đều bỏ giữa chừng vì ý tưởng đổi.
+=> viết cái sườn trước rồi viết từng phần. Các phần có thể được viết không theo tuần tự. Viết xong rồi lắp lại
+
+2. Về Notes:
+
+Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
+=> bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
+
+
+## Technical stuffs
 
 - [Software development process](software_development_process/SDP_index.md)
 - [Markdown syntax](syntax/markdown_syntax.txt)
@@ -7,29 +22,3 @@
 - [Ethics in IT](ethics_in_IT/ethics_index.md)
 - [Testing](testing/test_index.md)
 
-## General structure
-
-A notes folder has the general (recursive) structure of:
-- Resources folder
-- index file, only allow to link to .md files in its current directory
-- one or more .md files, 
-- inner notes folders
-
-	notes
-		resources
-		index.md
-		mdfile1.md
-		mdfile2.md
-		folder1
-			resources
-			index.md
-			mdfile1.md
-			mdfile2.md
-			innerFolder1
-				resources
-				index.md
-				...
-			...
-		folder2
-		folder3
-		...
