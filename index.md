@@ -12,13 +12,9 @@ Viết từng chương từ đầu đến cuối đối với tôi có vẻ khô
 Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
 => bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
 
-Test obsidian 
+## Navigation
 
-## Technical stuffs
-
-- [Software development process](software_development_process/SDP_index.md)
-- [Markdown syntax](syntax/markdown_syntax.txt)
-- [Design Patterns](design_patterns/index.md)
-- [Software requirement](requirement_engineering/req_eng_index.md)
-- [Ethics in IT](ethics_in_IT/ethics_index.md)
-- [Testing](testing/test_index.md)
+- [Technical stuffs](technical.md)
+- [Music theory and the like](music.md)
+- [Game knowledge](game.md)
+- [Writing skill](write.md)
