@@ -23,3 +23,4 @@ Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào
 - [Music theory and the like](music_index.md)
 - [Game knowledge](game_index.md)
 - [Writing skill](write_index.md)
+- [rando stuff](random_index.md)
