@@ -1,0 +1,13 @@
+# Random stuff. Ctrl + F to find
+- [Mobile travel application report (FPT Fall 2024)](random/android.md)
+- [Xã hội tư bản chủ nghĩa](random/capitalism.md)
+- [Summary of a certain DBMS book](random/DBI202%20Summary.txt)
+- [Experimental entrepreneur course presentation](random/exePresentation.md)
+- [Lean startup](random/lean_startup.md)
+- [Giai Đoạn V.I. Lênin Trong Sự Phát Triển Triết Học Mác](random/lenin.md)
+- [some make-up policy](random/policy.md)
+- [Thất nghiệp và vấn đề việc làm](random/PoliticalEcomomic.md)
+- [SignalR](random/signalR.md) and [SignalR2](random/signalR2.md)
+- [Importance of Models in Web API](random/WebAPI.md)
+- [Vai trò của Entity Models trong kết nối Web API với cơ sở dữ liệu](random/WebAPI2.md)
+- [Pushing and pulling communication in webapi](random/push_and_pull.md)

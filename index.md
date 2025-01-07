@@ -12,9 +12,14 @@ Viết từng chương từ đầu đến cuối đối với tôi có vẻ khô
 Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
 => bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
 
+## Current running project
+
+- [FPT CAPSTONE](https://iamreinir.github.io/SmartStore_POS/)
+- [OWA]
+
 ## Navigation
 
-- [Technical stuffs](technical.md)
-- [Music theory and the like](music.md)
-- [Game knowledge](game.md)
-- [Writing skill](write.md)
+- [Technical stuffs](technical_index.md)
+- [Music theory and the like](music_index.md)
+- [Game knowledge](game_index.md)
+- [Writing skill](write_index.md)
