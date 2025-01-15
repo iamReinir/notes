@@ -19,11 +19,24 @@ Chỉ sợ là nó xung đột với điều 1 bên trên
 Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
 => bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
 
+Mỗi khi bật firefox lên là thấy cái notes. Mấy cái link tài nguyên cũng giữ trong này => khá là hiệu quả.
 
-### Weekly Schedule:
+Lên kế hoạch t sẽ làm gì **tiếp theo** (gần thôi, tầm trong tuần) có vẻ khá là hiệu quả. Có thể dùng khi t đã quen với việc viết và xem lại notes. Cần thử xem k hoạch chi tiết tầm nào thì hợp lí.
 
-- Mon, Web, Fri : Writing till 8 half, then game
-- Tue, Thu, Sat : ___ till 8 half, then game
+
+### Very recent plan - will do if nothing happened
+
+EM (early morning)
+AM (morning)
+PM (afternoon)
+EV (evening)
+NI (late at night)
+
+- EM = write? the sun wont come up very early so it feel good
+- AM = finishing the UC list and ERD. Maybe notes about technologies choices and reasons about them (check chatGPT history). reminds the team about the reports
+- PM = Maybe setup repos, deployment script and stuff. There is class in the afternoon
+- EV = Plan for the next day, then its freetime 
+- NI = freetime 
 
 
 ## Current running project
