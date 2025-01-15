@@ -19,6 +19,13 @@ Chỉ sợ là nó xung đột với điều 1 bên trên
 Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
 => bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
 
+
+### Weekly Schedule:
+
+- Mon, Web, Fri : Writing till 8 half, then game
+- Tue, Thu, Sat : ___ till 8 half, then game
+
+
 ## Current running project
 
 - [FPT CAPSTONE](https://iamreinir.github.io/SmartStore_POS/)
