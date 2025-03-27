@@ -1,0 +1,33 @@
+{
+  "v": 6,
+  "name": "AIScannerStore_BE",
+  "folders": [],
+  "requests": [
+    {
+      "v": "11",
+      "endpoint": "<<HTTP_URL>>/api/auth/admin/login",
+      "name": "Login",
+      "params": [],
+      "headers": [],
+      "method": "POST",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "preRequestScript": "",
+      "testScript": "",
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"userEmail\": \"admin\",\n  \"password\": \"FPT2025_innova\"\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
+    }
+  ],
+  "headers": [],
+  "auth": {
+    "authType": "none",
+    "authActive": true
+  },
+  "_ref_id": "coll_m8qupl9b_75222f8c-d3bc-4b84-840e-81d9c8c28f6b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "18b8xxjefes",
+  "v": 1,
+  "name": "local",
+  "variables": [
+    {
+      "key": "HTTP_URL",
+      "value": "http://localhost:5000",
+      "secret": false
+    },
+    {
+      "key": "WS_URL",
+      "value": "ws://localhost:6001",
+      "secret": false
+    }
+  ]
+}
