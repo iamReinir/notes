@@ -5,29 +5,210 @@
   "requests": [
     {
       "v": "11",
+      "name": "PosLogin",
+      "method": "POST",
       "endpoint": "<<HTTP_URL>>/api/auth/admin/login",
-      "name": "Login",
       "params": [],
       "headers": [],
-      "method": "POST",
+      "preRequestScript": "",
+      "testScript": "pw.env.set(\"TOKEN\", pw.response.body.accessToken);",
       "auth": {
         "authType": "inherit",
         "authActive": true
       },
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"userEmail\": \"trungnx@aistore.com\",\n  \"password\": \"12345678\"\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "AdminLogin",
+      "method": "POST",
+      "endpoint": "<<HTTP_URL>>/api/auth/admin/login",
+      "params": [],
+      "headers": [],
       "preRequestScript": "",
-      "testScript": "",
+      "testScript": "pw.env.set(\"TOKEN\", pw.response.body.accessToken);",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
       "body": {
         "contentType": "application/json",
         "body": "{\n  \"userEmail\": \"admin\",\n  \"password\": \"FPT2025_innova\"\n}"
       },
       "requestVariables": [],
       "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "Get All Store",
+      "method": "GET",
+      "endpoint": "<<HTTP_URL>>/api/store",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "POS Create order",
+      "method": "POST",
+      "endpoint": "<<HTTP_URL>>/api/order",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"deviceId\": \"3fa85f64-5717-4562-b3fc-2c963f66a001\",\n  \"image1\": \"string\",\n  \"image2\": \"string\",\n  \"image3\": \"string\"\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "Pay for order",
+      "method": "POST",
+      "endpoint": "<<HTTP_URL>>/api/payment",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"cardId\": \"a1b2c3d4-e5f6-4789-abcd-1234567890ab\",\n  \"orderId\": \"6d07dc84-5a90-4622-bfbf-9f9787f7695f\",\n  \"timeStamp\": \"2025-03-27T08:16:56.624Z\"\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "CustomerLogin",
+      "method": "POST",
+      "endpoint": "<<HTTP_URL>>/api/auth/customer/login",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "pw.env.set(\"TOKEN\", pw.response.body.accessToken);",
+      "auth": {
+        "authType": "none",
+        "authActive": true
+      },
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"email\": \"alice@example.com\",\n  \"password\": \"12345678\"\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "Get Customer Order",
+      "method": "GET",
+      "endpoint": "<<HTTP_URL>>/api/order/customer/65e7ae60-1e61-4ef9-88c2-e6f3b3bc2f21",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "GEt Wallet History",
+      "method": "GET",
+      "endpoint": "<<HTTP_URL>>/api/wallet/customer/550e8400-e29b-41d4-a716-446655440000",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "Get Single Order",
+      "method": "GET",
+      "endpoint": "<<HTTP_URL>>/api/order/6d07dc84-5a90-4622-bfbf-9f9787f7695f",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": null,
+        "body": null
+      },
+      "requestVariables": [],
+      "responses": {}
+    },
+    {
+      "v": "11",
+      "name": "Query Wallet",
+      "method": "POST",
+      "endpoint": "<<HTTP_URL>>/api/wallet/history/get",
+      "params": [],
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "auth": {
+        "authType": "inherit",
+        "authActive": true
+      },
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"pageNumber\": 1,\n  \"pageSize\": 10,\n  \"sortBy\": \"string\",\n  \"isDescending\": true,\n  \"query\": {\n    \"customerId\": \"65e7ae60-1e61-4ef9-88c2-e6f3b3bc2f21\"\n  }\n}"
+      },
+      "requestVariables": [],
+      "responses": {}
     }
   ],
-  "headers": [],
   "auth": {
-    "authType": "none",
+    "authType": "bearer",
+    "token": "<<TOKEN>>",
     "authActive": true
   },
+  "headers": [],
   "_ref_id": "coll_m8qupl9b_75222f8c-d3bc-4b84-840e-81d9c8c28f6b"
 }

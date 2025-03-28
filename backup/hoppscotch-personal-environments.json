@@ -1,0 +1,46 @@
+[
+  {
+    "id": "18b8xxjefes",
+    "v": 1,
+    "name": "local",
+    "variables": [
+      {
+        "key": "HTTP_URL",
+        "value": "http://localhost:5000",
+        "secret": false
+      },
+      {
+        "key": "WS_URL",
+        "value": "ws://localhost:6001",
+        "secret": false
+      },
+      {
+        "key": "TOKEN",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAzNDg1MDAwLTYzNTMtNGUzMy1iODc4LTMyMzI4ZDg5YmE1MSIsIk5hbWUiOiJhZG1pbiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFETUlOIiwiZXhwIjoxNzQzMDczMzE2LCJpc3MiOiJBaVNjYW5uZXJTdG9yZSIsImF1ZCI6IkFpU2Nhbm5lclN0b3JlVXNlcnMifQ.wz32MpLM8zTwSLakjZ7w1Lpv2Ih22ijZTg_x3A2_rYw",
+        "secret": false
+      }
+    ]
+  },
+  {
+    "id": "yl75oc1q4t",
+    "v": 1,
+    "name": "public",
+    "variables": [
+      {
+        "key": "HTTP_URL",
+        "value": "https://reinir.mooo.com",
+        "secret": false
+      },
+      {
+        "key": "WS_URL",
+        "value": "https://reinir.mooo.com",
+        "secret": false
+      },
+      {
+        "key": "TOKEN",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAzNDg1MDAwLTYzNTMtNGUzMy1iODc4LTMyMzI4ZDg5YmE1MSIsIk5hbWUiOiJhZG1pbiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFETUlOIiwiZXhwIjoxNzQzMDczMTUzLCJpc3MiOiJBaVNjYW5uZXJTdG9yZSIsImF1ZCI6IkFpU2Nhbm5lclN0b3JlVXNlcnMifQ.3L_y_tmzcUdHxMoo8DKLU8Gl_eG7BERGvLTul_173qc",
+        "secret": false
+      }
+    ]
+  }
+]
