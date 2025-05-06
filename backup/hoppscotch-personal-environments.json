@@ -1,0 +1,76 @@
+[
+  {
+    "id": "18b8xxjefes",
+    "v": 1,
+    "name": "local",
+    "variables": [
+      {
+        "key": "HTTP_URL",
+        "value": "http://localhost:5000",
+        "secret": false
+      },
+      {
+        "key": "WS_URL",
+        "value": "http://localhost:6001",
+        "secret": false
+      },
+      {
+        "key": "TOKEN",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImFsaWNlQGV4YW1wbGUuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiQ1VTVE9NRVIiLCJleHAiOjE3NDM0ODM3NjUsImlzcyI6IkFpU2Nhbm5lclN0b3JlIiwiYXVkIjoiQWlTY2FubmVyU3RvcmVVc2VycyJ9.KVtVNG4p69C8gq8O0fHBtI9z5444bWFzxh3RoJyYiAE",
+        "secret": false
+      },
+      {
+        "key": "USER_ID",
+        "value": "550e8400-e29b-41d4-a716-446655440000",
+        "secret": false
+      },
+      {
+        "key": "STORE_ID",
+        "value": "a1e2f8c4-4c1b-4f2a-bf71-1f3c7a1b1111",
+        "secret": false
+      },
+      {
+        "key": "ORDER_ID",
+        "value": "4621d2c7-c055-454d-9dbd-7ef5582dcb27",
+        "secret": false
+      }
+    ]
+  },
+  {
+    "id": "yl75oc1q4t",
+    "v": 1,
+    "name": "public",
+    "variables": [
+      {
+        "key": "HTTP_URL",
+        "value": "https://reinir.mooo.com",
+        "secret": false
+      },
+      {
+        "key": "WS_URL",
+        "value": "https://reinir.mooo.com",
+        "secret": false
+      },
+      {
+        "key": "TOKEN",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImFsaWNlQGV4YW1wbGUuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiQ1VTVE9NRVIiLCJleHAiOjE3NDM0MDk4MzcsImlzcyI6IkFpU2Nhbm5lclN0b3JlIiwiYXVkIjoiQWlTY2FubmVyU3RvcmVVc2VycyJ9.hEWQ5Hhmar-a1cFpc6TUHVw7VNRdh_kuwqfVznbjCT4",
+        "secret": false
+      },
+      {
+        "key": "USER_ID",
+        "value": "550e8400-e29b-41d4-a716-446655440000",
+        "secret": false
+      },
+      {
+        "key": "STORE_ID",
+        "value": "a1e2f8c4-4c1b-4f2a-bf71-1f3c7a1b1111",
+        "secret": false
+      },
+      {
+        "key": "ORDER_ID",
+        "value": "",
+        "secret": false
+      }
+    ]
+  }
+]
