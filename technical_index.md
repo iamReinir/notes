@@ -1,5 +1,6 @@
 # Technical stuff
 
+- [Programming language](technical/learning_a_programming_language.md)
 - [Software development process](technical/software_development_process/SDP_index.md)
 - [Markdown syntax](technical/syntax/markdown_syntax.txt)
 - [Design Patterns](technical/design_patterns/index.md)

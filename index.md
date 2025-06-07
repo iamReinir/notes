@@ -1,5 +1,3 @@
-
-
 # Reinir's notes
 
 ## Về việc viết : 
@@ -14,34 +12,53 @@
 
 Chỉ sợ là nó xung đột với điều 1 bên trên
 
-## Về Notes:
+# SAIGON TRIP!!
 
-Một tờ giấy ghi lại mấy thứ tôi cần nhớ. Lúc trước ghi vào một tờ giấy trắng rồi kẹp với đống tài liệu viết, nhưng mà khá ít khi xem nó.
-=> bỏ lên trang index của cái repos note. Sync với obsidian để xem bên phone nữa.
+## Places to go
 
-Mỗi khi bật firefox lên là thấy cái notes. Mấy cái link tài nguyên cũng giữ trong này => khá là hiệu quả.
+TMA Solution lab3 => 10 Đ. Đặng Văn Ngữ, Phường 10, Phú Nhuận, Hồ Chí Minh, Vietnam
+https://maps.app.goo.gl/sxQD3h5Eb1Qd5Js97
 
-Lên kế hoạch t sẽ làm gì **tiếp theo** (gần thôi, tầm trong tuần) có vẻ khá là hiệu quả. Có thể dùng khi t đã quen với việc viết và xem lại notes. Cần thử xem k hoạch chi tiết tầm nào thì hợp lí.
+IIG Viet Nam CN Hồ Chí Minh
+Novaland The Sun Avenue, Tầng 1, Tháp 1, Tòa nhà Số 28, Đường Đ. Mai Chí Thọ, Thủ Đức, Hồ Chí Minh, Vietnam
+https://maps.app.goo.gl/HAij65KtP7fLdF2F8
 
+CGV Giga Mall Thủ Đức
+Tầng 6 TTTM Giga Mall, 240, 242 Đ. Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh 700000, Vietnam
+https://maps.app.goo.gl/37HVUQCwPyDA1AP97
 
-### Very recent plan - will do if nothing happened
+War Remnants Museum
+Phường 6, District 3, Ho Chi Minh City 700000, Vietnam
+https://maps.app.goo.gl/M84AyyXwtcdvdDvYA
 
-EM (early morning)
-AM (morning)
-PM (afternoon)
-EV (evening)
-NI (late at night)
+Timezone AEON Mall Tan Phu Celadon - Arcade Games & VR
+Aeon Mall, 30 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Hồ Chí Minh 700000, Vietnam
+https://maps.app.goo.gl/bEriDk3LcXqsj8H88
 
-- EM = write? the sun wont come up very early so it feel good
-- AM = finishing the UC list and ERD. Maybe notes about technologies choices and reasons about them (check chatGPT history). reminds the team about the reports
-- PM = Maybe setup repos, deployment script and stuff. There is class in the afternoon
-- EV = Plan for the next day, then its freetime 
-- NI = freetime 
+## Hotels
 
+Hoang Ha Hotel
+57 Trương Quốc Dung, Phường 10, Phú Nhuận, Hồ Chí Minh, Vietnam
+https://maps.app.goo.gl/ZRP7zUFW7DxVdMnc6
+
+700k/night. Is also a sushi restaurant. Very few bad reviews
+
+![front face](https://lh3.googleusercontent.com/geougc-cs/AB3l90Bji3Fudk2nK0Gp7maJfYRxowonG7HBeWBGthb12_DvEfFSxSNtnoh9LtZ-QLj3EdPXB8RMcAiCtqB_GQmMRcz-Y3Xv7_SkWzpk77QMhwBLyYVRbOiOjPWHClhghDyfqjnnhsRc=w600-h900-p)
+
+Golden Crown Hotel
+50A Trương Quốc Dung, Street, Phú Nhuận, Hồ Chí Minh 070000, Vietnam
+https://maps.app.goo.gl/hwqqpCuzoEesk7dJ7
+
+=> 700k/night. a lot of bad reviews.
+
+Reddoorz Yến Nam Hotel Nguyễn Trọng Tuyển
+219 Nguyễn Trọng Tuyển, Street, Phú Nhuận, Hồ Chí Minh 700000, Vietnam
+https://maps.app.goo.gl/5f6iif2YADnnSvni9
+
+=> cheap (around 400k/night), but in alley and loud train per 30 min. rude receptionists too
 
 ## Current running project
 
-- [FPT CAPSTONE](https://iamreinir.github.io/SmartStore_POS/)
 - [OWA]
 
 ## Navigation
