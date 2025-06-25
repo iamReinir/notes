@@ -12,24 +12,11 @@
 
 Chỉ sợ là nó xung đột với điều 1 bên trên
 
-# SAIGON TRIP!!
-
-## Places to go
-
-TMA Solution lab3 => 10 Đ. Đặng Văn Ngữ, Phường 10, Phú Nhuận, Hồ Chí Minh, Vietnam
-https://maps.app.goo.gl/sxQD3h5Eb1Qd5Js97
+# SAIGON TRIP II!!
 
 IIG Viet Nam CN Hồ Chí Minh
 Novaland The Sun Avenue, Tầng 1, Tháp 1, Tòa nhà Số 28, Đường Đ. Mai Chí Thọ, Thủ Đức, Hồ Chí Minh, Vietnam
 https://maps.app.goo.gl/HAij65KtP7fLdF2F8
-
-CGV Giga Mall Thủ Đức
-Tầng 6 TTTM Giga Mall, 240, 242 Đ. Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh 700000, Vietnam
-https://maps.app.goo.gl/37HVUQCwPyDA1AP97
-
-War Remnants Museum
-Phường 6, District 3, Ho Chi Minh City 700000, Vietnam
-https://maps.app.goo.gl/M84AyyXwtcdvdDvYA
 
 Timezone AEON Mall Tan Phu Celadon - Arcade Games & VR
 Aeon Mall, 30 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Hồ Chí Minh 700000, Vietnam
@@ -37,25 +24,20 @@ https://maps.app.goo.gl/bEriDk3LcXqsj8H88
 
 ## Hotels
 
-Hoang Ha Hotel
-57 Trương Quốc Dung, Phường 10, Phú Nhuận, Hồ Chí Minh, Vietnam
-https://maps.app.goo.gl/ZRP7zUFW7DxVdMnc6
+Khách sạn An Phú : 40 Đường F, Khu phố 1, Thủ Đức => bad reviews?
+342K
 
-700k/night. Is also a sushi restaurant. Very few bad reviews
+Khách sạn ABC
+36 Đ. 47-BTT, Phường Bình Trưng Tây, Thủ Đức, Hồ Chí Minh 70000, Việt Nam
+312K
 
-![front face](https://lh3.googleusercontent.com/geougc-cs/AB3l90Bji3Fudk2nK0Gp7maJfYRxowonG7HBeWBGthb12_DvEfFSxSNtnoh9LtZ-QLj3EdPXB8RMcAiCtqB_GQmMRcz-Y3Xv7_SkWzpk77QMhwBLyYVRbOiOjPWHClhghDyfqjnnhsRc=w600-h900-p)
+Mạnh Long
+123/3 Đường Số 7, Phường Thạnh Mỹ Lợi, Thủ Đức, Hồ Chí Minh 700000, Việt Nam
 
-Golden Crown Hotel
-50A Trương Quốc Dung, Street, Phú Nhuận, Hồ Chí Minh 070000, Vietnam
-https://maps.app.goo.gl/hwqqpCuzoEesk7dJ7
+Hoàng Lâm
+113A nguyễn tư nghiêm,P Bình Trưng Tây, Quận 2, Thủ Đức, Hồ Chí Minh, Việt Nam
 
-=> 700k/night. a lot of bad reviews.
 
-Reddoorz Yến Nam Hotel Nguyễn Trọng Tuyển
-219 Nguyễn Trọng Tuyển, Street, Phú Nhuận, Hồ Chí Minh 700000, Vietnam
-https://maps.app.goo.gl/5f6iif2YADnnSvni9
-
-=> cheap (around 400k/night), but in alley and loud train per 30 min. rude receptionists too
 
 ## Current running project
 
