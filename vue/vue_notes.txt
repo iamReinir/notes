@@ -1,0 +1,8 @@
+# Vue3 notes
+
+## References and official documentations
+
+There is an [official guide on Vue](https://vuejs.org/guide/introduction) that I can refer to
+
+Also, there is [this cheatsheet](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf)
+
