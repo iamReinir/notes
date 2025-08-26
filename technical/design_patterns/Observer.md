@@ -1,5 +1,5 @@
-[Back to index](./index.md)
 # Observer
+
 Subject - has changing state
 Observer - needs to know about the change
 
@@ -11,13 +11,13 @@ Obvious, bad approaches :
 	
 The pattern:
 								
-		Subject 					
-	+ attach(Observer o)
-	+ detach(Observer o)
-	+ notify()
-
-	interface Observer
-	+ update(Suject s)
+>   	Subject 					
+>	+ attach(Observer o)
+>	+ detach(Observer o)
+>	+ notify()
+>
+>	interface Observer
+>	+ update(Suject s)
 
 * Observer and Subject are interface/abstract class.
 * Subject hold a list of Observers, and will notify all Observers when there is a state change.
